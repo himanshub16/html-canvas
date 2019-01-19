@@ -38,7 +38,7 @@ var T = 0,
     L = 200,
     Precision = 3,
     radius = 10,
-    theta_o = -0
+    theta_o = Math.PI / 6
 
 
 function init() {
