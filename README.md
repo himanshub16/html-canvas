@@ -1,5 +1,5 @@
 # Simulating Physics with Canvas
-Code and examples presented at [PragmaConf, IIITA](pragmaconf.tech)
+Code and examples presented at [PragmaConf, IIITA](https://pragmaconf.tech)
 
 * [Basics of canvas](https://himanshub16.github.io/html-canvas/basics.html)
 * [Animating a cirlce](https://himanshub16.github.io/html-canvas/animation.html)
